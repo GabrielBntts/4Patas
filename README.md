@@ -10,7 +10,7 @@ Projeto de aplicativo para petshop.
 
 
 -Paleta de Cores
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_l2krfs4=/?moveToViewport=-273,-177,925,439" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+<img src=iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_l2krfs4=/?moveToViewport=-273,-177,925,439" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 
 -Wireframe/Prótotipo:
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_l2wFUpc=/?moveToViewport=-1389,-705,5215,2480" frameBorder="0" scrolling="no" allowFullScreen></iframe>
