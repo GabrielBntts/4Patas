@@ -3,7 +3,7 @@
 Projeto de aplicativo para petshop.
 
 -AppMaps (Mapa do aplicativo):
-src="https://miro.com/app/live-embed/o9J_l3Z0dMI=/?moveToViewport=1807,-671,1778,845" frameBorder="0" scrolling="no" allowFullScreen>
+ <img src="https://miro.com/app/live-embed/o9J_l3Z0dMI=/?moveToViewport=1807,-671,1778,845">
 
 -Fluxograma:
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_l2lBAjU=/?moveToViewport=-3555,-2738,10240,4869" frameBorder="0" scrolling="no" allowFullScreen></iframe>
